@@ -1,6 +1,6 @@
 ## Homebrew packaging for RIST
 
-This temporary Homebrew tap is not **obsolete**.
+This temporary Homebrew tap is now **obsolete**.
 
 The RIST library and tools are now available on macOS as standard [Homebrew](https://brew.sh/) packages.
 
